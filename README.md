@@ -197,33 +197,33 @@ Created social media content strategy and performance reports.
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR-LINKEDIN
+www.linkedin.com/in/niranjan-pavan-kumar-kadali-bb51601ba
 
 📧 Email
 
-YOUR EMAIL
+niranjanpavankumarkadali@gmail.com
 
 ---
 
 # 📈 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=niranjanpavankumarkadali&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=niranjanpavankumarkadali&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjanpavankumarkadali&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=niranjanpavankumarkadali&theme=algolia&no-frame=true)
 
 ---
 
 # 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=niranjanpavankumarkadali&theme=tokyo-night)
 
 ---
 
